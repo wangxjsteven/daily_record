@@ -1,0 +1,27 @@
+{
+  "name": "daily_record_wxj",
+  "version": "1.0.0",
+  "description": "daily record,to raise some perhaps",
+  "main": "add.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test daily"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxjsteven/daily_record.git"
+  },
+  "keywords": [
+    "daily",
+    "record"
+  ],
+  "author": "wangxjsteven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangxjsteven/daily_record/issues"
+  },
+  "homepage": "https://github.com/wangxjsteven/daily_record#readme"
+}
